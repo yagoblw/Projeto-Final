@@ -35,7 +35,7 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 
 /game.py
 
-> Game flow code 
+> Main file and Game flow code 
 
 /constants
 
@@ -43,4 +43,4 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 
 /main.py
 
-> Main file 
+> Run game
