@@ -15,55 +15,51 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 	<li>O Relógio : uma implementação rara dentro do jogo, que permite que a velocidade do jogo diminua e, consequentemente, a dificuldade do jogo também;</li>
 </u>
 
-### Built With
+### Construído com:
 
 - [ Python 3.11.3 ](https://www.python.org/downloads/release/python-3113/)
 - [ Pygame 2.4.0](https://www.pygame.org/wiki/GettingStarted)
 - [ OS ](https://python.readthedocs.io/en/stable/library/os.html)
 
-#### Why i used pygame as library (Por que utilizei pygame como biblioteca):
+#### Por que utilizei pygame como biblioteca:
 - Maior quantidade de repositórios online, disponíveis para aprendizado.
 - Facilidade na criação de molduras para a superfície do jogo, com posicionamento dos sprites através da função <i>rect</i> da biblioteca.
 - Possui funções para colidir objetos do jogo.
 - Facilidade de manipulação de eventos do jogo.
 
-#### Why i used <b>OS</b> as library (Por que utilizei OS path como biblioteca):
+#### Por que utilizei OS path como biblioteca:
 - Utilizei a biblioteca <b>OS</b> apenas para facilitar o acesso ao diretório de imagens e áudios com a função <i>path</i>.
 
-## Files
+## Arquivos
 
 /assets
 
-> Images separated by category
-
-/sound
-
-> Music and sound elements
+> Nesse diretório temos todas as imagens separadas por categorias e os aúdios.
 
 /obstacles
 
-> Game elements code base: power_ups and obstacles
+> Nesse diretório temos todos os obstáculos, poderes e itens duráveis do jogo e suas configurações de interações com o usuário (player), onde pode ser encontrados nos arquivos <i>_manager.py</i> 
 
 /dinossaur.py
 
-> Mario actions and settings
+> Tudo que o player realiza e suas interações com outros objetos são controlados nesse script.
 
 /game.py
 
-> Main file and Game flow code 
+> É o script principal do projeto, onde o loop do jogo roda, isto é, os eventos seguidos da atualização do status do jogo e em seguinte o desenho do jogo, além de interligar aos componentes principais do jogo.
 
 /constants
 
-> Global constants used into game flow, images and sounds
+> Nesse script encontra-se todas as constantes criadas para todos os aúdios e as spritesheets, isto é, o conjunto de sprites (imagens gráficas), que utilizei para a formação das ações do personagem.
 
 /main.py
 
-> Run game
+> Arquivo onde importamos a <i>classe Game</i> do arquivo <b>game.py</b> e rodamos o jogo.
 
-## About the process
+## Sobre o Processo
 
 <table>
-  <td align="center"><b>Lessons learnead</b></td>
+  <td align="center"><b>Conhecimentos Aprendidos</b></td>
   <tr/>
   <td align="left">
   <ul>
@@ -71,7 +67,7 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
   <li>Importância do trabalho em equipe e da comunicação ativa</li>
   <li>Conhecimento Compartilhado</li>
   <li>Recursos de Python e Pygame</li>
-  <li>Programação Orientada a Objetos (POO)</li>
+  <li>Programação Orientada a Objetos (POO) voltada ao Pygame</li>
   </ul>
   </td>
  </tr>
