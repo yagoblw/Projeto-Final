@@ -15,6 +15,22 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 	<li>O Relógio : uma implementação rara dentro do jogo, que permite que a velocidade do jogo diminua e, consequentemente, a dificuldade do jogo também;</li>
 </u>
 
+## Controles
+
+<p>
+	SPACE  = Pular e voar mais alto
+</p>
+<p>
+	S  = Agachar e voar mais baixo
+</p>
+<p>
+	W  = Ativar o voo (com a pena)
+</p>
+<p>
+	Q  = Desativar o voo (com a pena)
+</p>
+
+
 ### Construído com:
 
 - [ Python 3.11.3 ](https://www.python.org/downloads/release/python-3113/)
@@ -30,20 +46,6 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 #### Por que utilizei OS path como biblioteca:
 - Utilizei a biblioteca <b>OS</b> apenas para facilitar o acesso ao diretório de imagens e áudios com a função <i>path</i>.
 
-## Controles
-
-<p>
-	SPACE  = Pular e voar mais alto
-</p>
-<p>
-	S  = Agachar e voar mais baixo
-</p>
-<p>
-	W  = Ativar o voo (com a pena)
-</p>
-<p>
-	Q  = Desativar o voo (com a pena)
-</p>
 
 <!-- ## Como rodar o jogo? -->
 <h2 id="how-to-run">Como rodar o jogo?</h2>
