@@ -31,7 +31,7 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 </p>
 
 
-### Construído com:
+## Construído com:
 
 - [ Python 3.11.3 ](https://www.python.org/downloads/release/python-3113/)
 - [ Pygame 2.4.0](https://www.pygame.org/wiki/GettingStarted)
