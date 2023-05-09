@@ -15,6 +15,21 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 	<li>O Relógio : uma implementação rara dentro do jogo, que permite que a velocidade do jogo diminua e, consequentemente, a dificuldade do jogo também;</li>
 </u>
 
+### Built With
+
+- [ Python 3.11.3 ](https://www.python.org/downloads/release/python-3113/)
+- [ Pygame 2.4.0](https://www.pygame.org/wiki/GettingStarted)
+- [ OS ](https://python.readthedocs.io/en/stable/library/os.html)
+
+#### Why i used pygame as library (Por que utilizei pygame como biblioteca):
+- Maior quantidade de repositórios online, disponíveis para aprendizado.
+- Facilidade na criação de molduras para a superfície do jogo, com posicionamento dos sprites através da função <i>rect</i> da biblioteca.
+- Possui funções para colidir objetos do jogo.
+- Facilidade de manipulação de eventos do jogo.
+
+#### Why i used <b>OS</b> as library (Por que utilizei OS path como biblioteca):
+- Utilizei a biblioteca <b>OS</b> apenas para facilitar o acesso ao diretório de imagens e áudios com a função <i>path</i>.
+
 ## Files
 
 /assets
@@ -44,3 +59,20 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 /main.py
 
 > Run game
+
+##
+
+<table>
+  <td align="center"><b>Lessons learnead</b></td>
+  <tr/>
+  <td align="left">
+  <ul>
+  <li>Trabalho Assíncrono</li>
+  <li>Importância do trabalho em equipe e da comunicação ativa</li>
+  <li>Conhecimento Compartilhado</li>
+  <li>Recursos de Python e Pygame</li>
+  <li>Programação Orientada a Objetos (POO)</li>
+  </ul>
+  </td>
+ </tr>
+ </table>
