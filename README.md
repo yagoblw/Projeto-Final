@@ -60,7 +60,7 @@ a base do jogo DINO RUNNER, a partir da biblioteca PYGAME da Linguagem PYTHON e 
 
 > Run game
 
-##
+## About the process
 
 <table>
   <td align="center"><b>Lessons learnead</b></td>
